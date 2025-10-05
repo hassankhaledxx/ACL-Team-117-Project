@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "d6284e2e",
+   "id": "334bb147",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2025-10-05T19:02:47.363172Z",
-     "iopub.status.busy": "2025-10-05T19:02:47.362214Z",
-     "iopub.status.idle": "2025-10-05T19:02:51.710431Z",
-     "shell.execute_reply": "2025-10-05T19:02:51.709396Z"
+     "iopub.execute_input": "2025-10-05T19:02:53.460834Z",
+     "iopub.status.busy": "2025-10-05T19:02:53.460527Z",
+     "iopub.status.idle": "2025-10-05T19:02:57.288518Z",
+     "shell.execute_reply": "2025-10-05T19:02:57.287599Z"
     },
     "papermill": {
-     "duration": 4.353663,
-     "end_time": "2025-10-05T19:02:51.712281",
+     "duration": 3.833404,
+     "end_time": "2025-10-05T19:02:57.290444",
      "exception": false,
-     "start_time": "2025-10-05T19:02:47.358618",
+     "start_time": "2025-10-05T19:02:53.457040",
      "status": "completed"
     },
     "tags": []
@@ -32,19 +32,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "abf67a75",
+   "id": "84f3e595",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-05T19:02:51.718007Z",
-     "iopub.status.busy": "2025-10-05T19:02:51.717562Z",
-     "iopub.status.idle": "2025-10-05T19:02:52.921675Z",
-     "shell.execute_reply": "2025-10-05T19:02:52.920174Z"
+     "iopub.execute_input": "2025-10-05T19:02:57.295786Z",
+     "iopub.status.busy": "2025-10-05T19:02:57.295344Z",
+     "iopub.status.idle": "2025-10-05T19:02:58.018626Z",
+     "shell.execute_reply": "2025-10-05T19:02:58.017639Z"
     },
     "papermill": {
-     "duration": 1.209133,
-     "end_time": "2025-10-05T19:02:52.923659",
+     "duration": 0.727808,
+     "end_time": "2025-10-05T19:02:58.020380",
      "exception": false,
-     "start_time": "2025-10-05T19:02:51.714526",
+     "start_time": "2025-10-05T19:02:57.292572",
      "status": "completed"
     },
     "tags": []
@@ -274,19 +274,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "fbb472e1",
+   "id": "f26c4c5b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-05T19:02:52.929688Z",
-     "iopub.status.busy": "2025-10-05T19:02:52.929295Z",
-     "iopub.status.idle": "2025-10-05T19:02:52.990315Z",
-     "shell.execute_reply": "2025-10-05T19:02:52.989094Z"
+     "iopub.execute_input": "2025-10-05T19:02:58.025617Z",
+     "iopub.status.busy": "2025-10-05T19:02:58.025305Z",
+     "iopub.status.idle": "2025-10-05T19:02:58.079377Z",
+     "shell.execute_reply": "2025-10-05T19:02:58.078187Z"
     },
     "papermill": {
-     "duration": 0.066056,
-     "end_time": "2025-10-05T19:02:52.992110",
+     "duration": 0.058676,
+     "end_time": "2025-10-05T19:02:58.081124",
      "exception": false,
-     "start_time": "2025-10-05T19:02:52.926054",
+     "start_time": "2025-10-05T19:02:58.022448",
      "status": "completed"
     },
     "tags": []
@@ -350,19 +350,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "1efd33d0",
+   "id": "217fa91b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-05T19:02:52.998364Z",
-     "iopub.status.busy": "2025-10-05T19:02:52.998030Z",
-     "iopub.status.idle": "2025-10-05T19:02:53.258935Z",
-     "shell.execute_reply": "2025-10-05T19:02:53.257946Z"
+     "iopub.execute_input": "2025-10-05T19:02:58.086681Z",
+     "iopub.status.busy": "2025-10-05T19:02:58.086363Z",
+     "iopub.status.idle": "2025-10-05T19:02:58.236271Z",
+     "shell.execute_reply": "2025-10-05T19:02:58.235323Z"
     },
     "papermill": {
-     "duration": 0.266175,
-     "end_time": "2025-10-05T19:02:53.260817",
+     "duration": 0.154513,
+     "end_time": "2025-10-05T19:02:58.237877",
      "exception": false,
-     "start_time": "2025-10-05T19:02:52.994642",
+     "start_time": "2025-10-05T19:02:58.083364",
      "status": "completed"
     },
     "tags": []
@@ -709,14 +709,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 12.898406,
-   "end_time": "2025-10-05T19:02:53.883838",
+   "duration": 10.992,
+   "end_time": "2025-10-05T19:02:58.961065",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-10-05T19:02:40.985432",
+   "start_time": "2025-10-05T19:02:47.969065",
    "version": "2.6.0"
   }
  },
